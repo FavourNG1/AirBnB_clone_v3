@@ -180,7 +180,7 @@ No known bugs at this time.
 
 Nwafor Favour Nnenna - [Github](https://github.com/FavourNG1 (favournnenna55@gmail.com) / [Twitter](https://twitter.com/Favour Nnenna G)
 Josué Makuta - [Github](https://github.com/JoeMakuta (makutajosue@gmail.com) / [Twitter](https://twitter.com/MakutaJosue)
-=======
+
 
 ## License
 
